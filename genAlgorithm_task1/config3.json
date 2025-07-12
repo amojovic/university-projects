@@ -1,0 +1,14 @@
+{
+  "num_restarts": 5,
+  "population_size": 500,
+  "num_mating_individuals": 250,
+  "num_mutating_individuals": 600,
+  "num_individuals_to_eliminate": 260,
+  "random_seed": 123,
+  "output_file": "output3.txt",
+  "x_bounds": [-1.5, 4],
+  "y_bounds": [-3, 4],
+  "mutation_rate": 0.7,
+  "bit_length": 24,
+  "generations": 10000
+}
