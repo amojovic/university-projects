@@ -1,0 +1,164 @@
+{
+  "feature": 1,
+  "threshold": 0.0,
+  "left": {
+    "feature": 2,
+    "threshold": 6.0,
+    "left": {
+      "feature": 3,
+      "threshold": 2.0,
+      "left": {
+        "label": 1
+      },
+      "right": {
+        "feature": 2,
+        "threshold": 2.0,
+        "left": {
+          "label": 0
+        },
+        "right": {
+          "feature": 2,
+          "threshold": 3.0,
+          "left": {
+            "label": 1
+          },
+          "right": {
+            "label": 0
+          }
+        }
+      }
+    },
+    "right": {
+      "feature": 0,
+      "threshold": 1.0,
+      "left": {
+        "feature": 5,
+        "threshold": 26.0,
+        "left": {
+          "label": 0
+        },
+        "right": {
+          "feature": 2,
+          "threshold": 52.0,
+          "left": {
+            "label": 0
+          },
+          "right": {
+            "label": 0
+          }
+        }
+      },
+      "right": {
+        "feature": 5,
+        "threshold": 46.9,
+        "left": {
+          "feature": 2,
+          "threshold": 12.0,
+          "left": {
+            "label": 0
+          },
+          "right": {
+            "label": 0
+          }
+        },
+        "right": {
+          "feature": 5,
+          "threshold": 56.4958,
+          "left": {
+            "label": 1
+          },
+          "right": {
+            "label": 0
+          }
+        }
+      }
+    }
+  },
+  "right": {
+    "feature": 0,
+    "threshold": 2.0,
+    "left": {
+      "feature": 2,
+      "threshold": 2.0,
+      "left": {
+        "feature": 0,
+        "threshold": 1.0,
+        "left": {
+          "label": 0
+        },
+        "right": {
+          "label": 1
+        }
+      },
+      "right": {
+        "feature": 5,
+        "threshold": 28.7125,
+        "left": {
+          "feature": 5,
+          "threshold": 27.75,
+          "left": {
+            "label": 1
+          },
+          "right": {
+            "label": 0
+          }
+        },
+        "right": {
+          "feature": 4,
+          "threshold": 1.0,
+          "left": {
+            "label": 1
+          },
+          "right": {
+            "label": 1
+          }
+        }
+      }
+    },
+    "right": {
+      "feature": 5,
+      "threshold": 23.25,
+      "left": {
+        "feature": 2,
+        "threshold": 36.0,
+        "left": {
+          "feature": 6,
+          "threshold": 1.0,
+          "left": {
+            "label": 1
+          },
+          "right": {
+            "label": 1
+          }
+        },
+        "right": {
+          "feature": 2,
+          "threshold": 47.0,
+          "left": {
+            "label": 0
+          },
+          "right": {
+            "label": 1
+          }
+        }
+      },
+      "right": {
+        "feature": 4,
+        "threshold": 0.0,
+        "left": {
+          "label": 1
+        },
+        "right": {
+          "feature": 2,
+          "threshold": 5.0,
+          "left": {
+            "label": 0
+          },
+          "right": {
+            "label": 0
+          }
+        }
+      }
+    }
+  }
+}
