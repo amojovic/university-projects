@@ -1,1 +1,2 @@
-
+Image Color Histogram Analysis and Classification:
+Developed a system for analyzing and classifying images based on RGB color histograms, using only functional programming constructs (map, reduce, no explicit loops). Computed normalized 3D histograms per image, aggregated average histograms per class, and implemented a simple image classifier based on cosine similarity with class averages. Evaluated on datasets such as CIFAR-10 and Caltech101.
