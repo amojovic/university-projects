@@ -1,0 +1,29 @@
+{
+    "tasks": [
+        {
+            "input_image_path": "./slike/lake.jpg",
+            "output_image_path": "./slike/processed_lake.jpg",
+            "filter_type": "filter_1"
+        },
+        {
+            "input_image_path": "./slike/cute.png",
+            "output_image_path": "./slike/processed_cute.png",
+            "filter_type": "filter_2"
+        },
+	{
+	    "input_image_path": "./slike/save_europe.jpg",
+	    "output_image_path": "./slike/processed_save_europe.jpg",
+	    "filter_type": "filter_3"
+	},
+	{
+	    "input_image_path": "./slike/Turin_in_Nargothrond.jpg",
+	    "output_image_path": "./slike/processed_Turin_in_Nargothrond.jpg",
+	    "filter_type": "filter_2"
+	},
+	{
+	    "input_image_path": "./slike/slika1.jpg",
+	    "output_image_path": "./slike/processed_slika1.jpg",
+	    "filter_type": "filter_1"
+	}
+    ]
+}
