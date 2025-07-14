@@ -1,1 +1,2 @@
-
+Parallel Image Processing System:
+Developed a system for parallel processing of large sets of images. Implemented an image registry and task registry to track image versions, applied filters (grayscale, Gaussian blur, brightness adjustment), and managed task dependencies. Designed a command-driven architecture using multithreading for command handling and multiprocessing for image transformations to enable efficient, concurrent execution. Implemented safe image deletion logic and detailed status tracking for all processing tasks.
