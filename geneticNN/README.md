@@ -1,1 +1,1 @@
-
+The goal of this project was to combine a genetic algorithm with convolutional neural networks (CNNs) in order to efficiently solve the problem of image classification on the MNIST dataset, which contains images of handwritten digits (0–9).
